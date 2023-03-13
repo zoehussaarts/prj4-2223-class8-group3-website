@@ -3,3 +3,17 @@
 h1 {font-family:"Kepler Std Scn Disp"; font-weight: bold; font-style: italic}
 
 .yellow {background-color: gold !important}
+
+#home {font-family: "aclonica"; font-size: 20px; color: aliceblue}
+
+#about-us {font-family: "aclonica"; font-size: 20px; color: aliceblue}
+
+#socials {font-family: "aclonica"; font-size: 20px; color: aliceblue}
+
+#corporate {font-family: "aclonica"; font-size: 20px; color: aliceblue}
+
+#nav-bg {background-color: #7A7B01 !important;}
+
+#button1 {border-radius: 12px; padding: 12px 28px; transition-duration: 0.4s; background-color: #d5687f;}
+
+#header {background-color: #7A7B01; min-height: 40px; text-indent: 1050px; color: aliceblue; padding-top: 25px; font-size: 10px}
